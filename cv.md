@@ -1,6 +1,6 @@
 # Yuri Huliashou
   ---
-  ![ava](~/ava.jpg)
+  ![ava](/ava.jpg)
  
 ## Contacts
   * tel.: + 375-(29)-368-38-92
