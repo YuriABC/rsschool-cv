@@ -8,7 +8,7 @@
   * location: Mogilev
 
 ## About Me
-
+My goal is to get the skills to work as a Front-end developer in JS.
 
 ## Skills
 1. SQL
